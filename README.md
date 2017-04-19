@@ -6,7 +6,7 @@ This code is made in c# using the [MonoGame XNA Framework](http://www.monogame.n
 All code for the UI can be found in: MarsImageThing/Game1.cs
 The classification algorithum can be found in: MarsImageThing/ClassifyImage.cs and MarsImageThing/SpectralDataPoint.cs
 
-## How The Code Works to Classify The Images
+## How The Code Works to Classify The  Images
 ### Key Concepts
 In everyday life everything absorbs and reflects light; This in turn, gives it its color. While we humans can only see the visible spectrum (400nm - 700nm) there are still more wavelengths that are also affected by objects in the same way. Although for opportunity only near-UV to near-IR wavelengths are used as filters for the cameras.
 
